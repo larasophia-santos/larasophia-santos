@@ -15,7 +15,7 @@ Atualmente, sou estudante do **1º ano do Ensino Médio** e estou cursando o té
 ---
 
 ### Ferramentas:
-* **Linguagens/Web:** HTML5, CSS3, JavaScript, Python
+* **Linguagens/Web:** HTML5, CSS.
 * **Ferramentas:** Git, VS Code, Portugol.
 
 ---
